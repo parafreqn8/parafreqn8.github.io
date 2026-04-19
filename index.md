@@ -10,6 +10,7 @@ Paranormal Frequency is a recurring live event in Shreveport, Louisiana focused 
 ## Upcoming Events
 
 *   May 22nd at Fatty Arbuckle's
+*   June 6th at SPEAC (All Ages)
 *   July 25th at Korner Lounge
 
 * * *
