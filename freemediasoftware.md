@@ -11,11 +11,11 @@ A non-comprehensive list
 
 [Cakewalk](https://www.cakewalk.com/)
 
-[Waveform Free audio editing software - mac, pc, linux | Tracktion](https://www.tracktion.com/products/waveform-free)
+[Tracktion](https://www.tracktion.com/products/waveform-free)
 
 [LMMS](https://lmms.io/)
 
-[Free DAW Software MPC Beats | Akai Professional](https://www.akaipro.com/mpc-beats/)
+[ Akai Professional](https://www.akaipro.com/mpc-beats/)
 
 [Audiotool](https://www.audiotool.com/)
 
@@ -36,7 +36,7 @@ A non-comprehensive list
 
 [Cavalry](https://cavalry.scenegroup.co/)
 
-[Houdini | Procedural Content Creation Tools for Film/TV, Gamedev and more | SideFX](https://www.sidefx.com/products/houdini/)
+[Houdini](https://www.sidefx.com/products/houdini/)
 
 [Natron](https://natrongithub.github.io/)
 
@@ -57,7 +57,7 @@ A non-comprehensive list
 
 [Canva](https://www.canva.com/)
 
-[Free Design Tool for Websites, Product Design & More | Figma](https://www.figma.com/design/)
+[Figma](https://www.figma.com/design/)
 
 [Photopea](https://www.photopea.com/)
 
@@ -75,7 +75,7 @@ A non-comprehensive list
 ## Digital Art
 ===========
 
-[Digital painting and drawing app | Adobe Fresco](https://www.adobe.com/products/fresco.html)
+[Adobe Fresco](https://www.adobe.com/products/fresco.html)
 
 [Krita](https://krita.org/en/)
 
@@ -85,6 +85,6 @@ A non-comprehensive list
 
 [ibisPaint - Draw and Paint App](https://ibispaint.com/?lang=en-US)
 
-[Curve: Advanced Vector Design Software for Mac, iPad and iPhone | Linearity](https://www.linearity.io/curve/)
+[Curve](https://www.linearity.io/curve/)
 
-[Home - Kleki](https://kleki.com/home/)
+[Kleki](https://kleki.com/home/)
