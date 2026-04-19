@@ -15,7 +15,7 @@ Paranormal Frequency is a recurring live event in Shreveport, Louisiana focused 
 * * *
 
 ## Join Us
-Send links to your music and/or animation or video art. These submissions are what we look at first when putting together a line up. Include your name, contact info, what your live set up looks like, and any questions you have for us.
+Send links to your music and/or animation or video art. These submissions are what we look at first when putting together a line up. Include your name, contact info, what your live set up looks like, and any questions you have for us. Some shows have covers, some are donation based. Typically door money is split among all the performers. Sometimes a portion may go to cover event expenses. Always feel free to ask questions. Transparency breeds trust. 
 <info@paranormalfrequency.org>
 
 ### Principles
@@ -29,3 +29,8 @@ Send links to your music and/or animation or video art. These submissions are wh
 * no violence
 * no generative ai
 * rapping over vocals is corny
+
+### Donate
+If you'd like to support Paranormal Frequency financially please send money to the link below. This helps us afford equipment (and repairs) and software for our events
+
+If you'd like to donate equipment: speakers, amps, projectors, lights, disco balls, a van, etc, please email <info@paranormalfrequency.org>.
