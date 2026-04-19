@@ -19,7 +19,7 @@ A non-comprehensive list
 * [BandLab](https://www.bandlab.com/)
 * [Cardinal](https://cardinal.kx.studio/)
 
----
+***
 
 ## Animation
 
@@ -35,7 +35,7 @@ A non-comprehensive list
 * [Pencil2D Animation](https://www.pencil2d.org/)
 * [Unreal Engine](https://www.unrealengine.com/en-US)
 
----
+***
 
 ## Graphic Design Software
 
@@ -44,7 +44,7 @@ A non-comprehensive list
 * [Figma](https://www.figma.com/design/)
 * [Photopea](https://www.photopea.com/)
 
----
+***
 
 ## Video Editing
 
@@ -52,6 +52,8 @@ A non-comprehensive list
 * [OpenShot Video Editor](https://www.openshot.org/)
 * [Clipchamp](https://clipchamp.com/en/)
 * [Shotcut](https://www.shotcut.org/)
+
+***
 
 ## Digital Art
 
