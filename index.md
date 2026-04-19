@@ -18,3 +18,14 @@ Paranormal Frequency is a recurring live event in Shreveport, Louisiana focused 
 Send links to your music and/or animation or video art. These submissions are what we look at first when putting together a line up. Include your name, contact info, what your live set up looks like, and any questions you have for us.
 <info@paranormalfrequency.org>
 
+### Principles
+* collaboration over competition
+* dancing is good
+* creative risks are always worth it
+* share knowledge, share skills
+* look out for one another, keep each other safe
+* all art is political, especially stupid art
+* no discriminatory language or content
+* no violence
+* no generative ai
+* rapping over vocals is corny
