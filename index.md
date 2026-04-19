@@ -5,6 +5,7 @@ layout: default
 # About
 
 Paranormal Frequency is a recurring live event in Shreveport, Louisiana focused on rhythm centric music and experimental live visuals. We aren't tied to specific genres but are hungry for otherworldly audiovisual performances that make us move. We showcase forward thinking rappers, boundary pushing beat makers, progressive pixel pushers, brain melting bass wizards, cassette tape cultists, and more!
+* * *
 
 ## Upcoming Events
 
