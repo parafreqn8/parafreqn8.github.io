@@ -5,7 +5,8 @@ layout: default
 # Free Media Creation Software
 
 A non-comprehensive list
----
+
+***
 
 ## Music Production
 
@@ -33,6 +34,7 @@ A non-comprehensive list
 * [Blender](https://www.blender.org/)
 * [Pencil2D Animation](https://www.pencil2d.org/)
 * [Unreal Engine](https://www.unrealengine.com/en-US)
+
 ---
 
 ## Graphic Design Software
@@ -41,6 +43,7 @@ A non-comprehensive list
 * [Canva](https://www.canva.com/)
 * [Figma](https://www.figma.com/design/)
 * [Photopea](https://www.photopea.com/)
+
 ---
 
 ## Video Editing
