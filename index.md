@@ -32,5 +32,5 @@ Send links to your music and/or animation or video art. These submissions are wh
 
 ### Donate
 If you'd like to support Paranormal Frequency financially please send money to the link below. This helps us afford equipment (and repairs) and software for our events
-
+<https://www.paypal.com/donate/?hosted_button_id=AGTWRSTXLRY6N>
 If you'd like to donate equipment: speakers, amps, projectors, lights, disco balls, a van, etc, please email <info@paranormalfrequency.org>.
